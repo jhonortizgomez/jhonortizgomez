@@ -1,4 +1,5 @@
-(https://pbs.twimg.com/profile_banners/1539444611566948354/1659279427/1500x500)
+[![logo](https://pbs.twimg.com/profile_banners/1539444611566948354/1659279427/1500x500)](https://jhonortizgomez.github.io/portafolio/)
+
 
 
 <p align='center'>
