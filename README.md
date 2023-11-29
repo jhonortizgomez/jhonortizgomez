@@ -1,4 +1,5 @@
-[![logo]
+[![logo](https://pbs.twimg.com/profile_banners/1539444611566948354/1659279427/1500x500)]
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jhon-ortiz-gomez-367287234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
