@@ -29,9 +29,3 @@ Mi entusiasmo por nuevas tecnologías y la creación continúa impulsando mi car
 ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Proyectos
-
-Consulta mis proyectos.
-:arrow_down:
-:arrow_down:
-:arrow_down:
