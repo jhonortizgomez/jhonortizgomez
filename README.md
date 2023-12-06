@@ -9,9 +9,9 @@
 
 # 👋 Hola, bienvenido a mi perfil de Github
 
-Soy desarrollador front-end con experiencia en React, siempre me ha gustado aprender, así que hace algunos años comencé a aprender sobre tecnologías web por mi cuenta con diferentes cursos y tutoriales en línea. Actualmente tengo más de un año avanzando en mis estudios de tecnología donde he consolidado todos mis conocimientos, mejorarando mis habilidades de desarrollo web. Por todo este aprendizaje he adquirido conocimientos y habilidades muy solidas en HTML, CSS, Sass, Bootstrap, JavaScript, React, Git.
+🚀 Soy un profesional en mercadeo y desarrollador front-end con más de un año de experiencia. Mis habilidades abarcan React, React Native, Firebase, VITEX, TypeScript, y tecnologías web como Sass, JavaScript, HTML, y CSS. Aprendí de manera autodidacta en Platzi, donde consolidé mis conocimientos.
 
-Sigo aprendiendo y me encanta crear nuevas tecnologías, así que si estás interesado en construir proyectos increíbles conmigo, solo contáctame a este correo electrónico estebanortizgomez96@gmail.com  
+Mi entusiasmo por nuevas tecnologías y la creación continúa impulsando mi carrera. Si buscas colaborar en proyectos emocionantes, contáctame. ¡Estoy emocionado por construir algo increíble juntos! 🌟
 
 ## Estadisticas de Github
 
